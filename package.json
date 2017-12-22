@@ -1,0 +1,26 @@
+{
+  "name": "coelhify",
+  "version": "0.0.1",
+  "description": "Coelhificando nomes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcker/coelhify.git"
+  },
+  "keywords": [
+    "castor",
+    "coelhificação",
+    "coelhify",
+    "coelho",
+    "joke"
+  ],
+  "author": "marcker <marckfree@gmail.com> (http://marcker.github.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marcker/coelhify/issues"
+  },
+  "homepage": "https://github.com/marcker/coelhify#readme"
+}
